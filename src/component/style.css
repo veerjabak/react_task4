@@ -1,0 +1,19 @@
+p {
+  font-size: 32px;
+  font-weight: 500;
+}
+
+table {
+  border: 1px solid white;
+  border-radius: 6px;
+  margin: 0 auto;
+
+  width: fit-content;
+}
+table thead th {
+  border-bottom: 1px solid white;
+  border-radius: 6px;
+}
+td {
+  border-bottom: none;
+}
